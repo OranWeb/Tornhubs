@@ -3,8 +3,8 @@ layout: post
 title: 'Welcome to TornHub'
 author: [ORAN]
 tags: ['About TornHub']
-image: img/welcome-to-tornhub.png
-date: '2020-08-06T23:46:37.121Z'
+image: img/welcome-to-tornhub.jpg
+date: '2020-08-22T23:46:37.121Z'
 draft: false
 excerpt: ah, look a fansite for torn!
 ---
@@ -23,13 +23,14 @@ We Plan to release a few category of Articles, like
 1. Tornography
 2. Faction Focus
 3. Why'd you do that
-4. Daily Forums News
-Please Note Daily Forums News is Not actually daily.. but rather at any given moment.
+4. Daily Forums News  
+
+#### Please Note Daily Forums News is Not actually daily.. but rather at any given moment.
 
 >If You're interested in Writing for TornHub Please Contact ORAN on Torn or Email oran@oran.pw
 
-Quick Links
+**Quick Links**  
 
-TornHub Forums
-TornHub Discord
-TornHub Reddit
+TornHub Forums  
+TornHub Discord  
+TornHub Reddit  
