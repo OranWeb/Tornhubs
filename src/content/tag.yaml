@@ -1,3 +1,6 @@
 - id: speeches
   description: Some of the greatest words ever spoken.
   image: img/speeches-cover.jpg
+- id: About TornHub
+  description: Posts that detail about TornHub.
+  image: img/speeches-cover.jpg
