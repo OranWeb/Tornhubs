@@ -34,9 +34,14 @@ export const Footer: React.FC = () => {
           )}
 
           <a href="https://github.com/scttcper/gatsby-casper" target="_blank" rel="noopener noreferrer">
-            Casper
+            Reddit
           </a>
-
+          <a href="https://github.com/scttcper/gatsby-casper" target="_blank" rel="noopener noreferrer">
+            Forums
+          </a>
+          <a href="https://github.com/scttcper/gatsby-casper" target="_blank" rel="noopener noreferrer">
+            Discord
+          </a>
           <a href="/rss.xml">RSS</a>
         </SiteFooterNav>
       </div>
