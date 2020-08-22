@@ -94,7 +94,19 @@ class SiteNav extends React.Component<SiteNavProps, SiteNavState> {
                   <Link to="/">Home</Link>
                 </li>
                 <li role="menuitem">
-                  <Link to="/about">About</Link>
+                  <Link to="/welcome-to-tornhub/">About</Link>
+                </li>
+                <li role="Faction Focus">
+                  <Link to="/tags/faction-focus/">Getting Started</Link>
+                </li>
+                <li role="Discord">
+                  <Link to="/tags/faction-focus/">Getting Started</Link>
+                </li>
+                <li role="Reddit">
+                  <Link to="/tags/faction-focus/">Getting Started</Link>
+                </li>
+                <li role="Forum">
+                  <Link to="/tags/faction-focus/">Getting Started</Link>
                 </li>
                 <li role="menuitem">
                   <Link to="/tags/getting-started/">Getting Started</Link>
