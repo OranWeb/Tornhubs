@@ -33,7 +33,8 @@ export const Footer: React.FC = () => {
           </a>
           <a href="/welcome-to-tornhub" target="_blank" rel="noopener noreferrer">
             About
-      
+            </a>
+
         </SiteFooterNav>
       </div>
     </footer>
