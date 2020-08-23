@@ -21,7 +21,7 @@ The Obviously cringe uncreative name apart, [TornHub](https://torn.oran.pw) is a
 
 ## Why Does TornHub Exist?
 TornHub Exists to feed you with Quality News and Articles all about Torn.
-We Plan to release a few category of Articles (and more will be worked upon and released at a future date)
+We Plan to release a few categories of Articles (and more will be worked upon and released at a future date)
 
 1. Tornography
 2. [Faction Focus](../tags/faction-focus/)
