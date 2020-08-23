@@ -6,11 +6,11 @@ tags: ['Faction Focus']
 image: img/thumb/faction-focus-yakuza-thumb.jpg
 date: '2020-08-23T23:46:37.121Z'
 draft: false
-excerpt: Faction focus article for the Yakuza Faction
+excerpt: Yakuza, The name that gets dropped on the forum from time to time, new players don’t seem to have any idea but old players, they get chills sent down their spine. 
 ---
 
 
-Yakuza, The name that gets dropped on the forum from time to time, new players don’t seem to have any idea but old players, they get chills sent down their spine.  
+#### Yakuza, The name that gets dropped on the forum from time to time, new players don’t seem to have any idea but old players, they get chills sent down their spine.  
 
 
 ![](http://i.oran.pw/images/astUk.jpeg)
@@ -22,66 +22,65 @@ _“Yakuza was founded by US military personnel stationed in Kadena air base, a 
 
 Lord3Infamous6 joined Yakuza, Let alone Torn a year After Yakuza was formed, When he arrived Faction wars were also in full force  
 
-“Soon after I arrived, I met [Spooks](https://www.torn.com/profiles.php?XID=64901#/) [64901] (Satans_Samurai then). while trading a few items I had to barter. Back then, people were tough, some harder than others, but this is long before drugs even existed, let alone the epidemic that would take Torn a year or two later. He introduced me to his faction - Yakuza.”  
+_“Soon after I arrived, I met [Spooks](https://www.torn.com/profiles.php?XID=64901#/) [64901] (Satans_Samurai then). while trading a few items I had to barter. Back then, people were tough, some harder than others, but this is long before drugs even existed, let alone the epidemic that would take Torn a year or two later. He introduced me to his faction - Yakuza.”_
 
-**[Spooks](https://www.torn.com/profiles.php?XID=64901#/)**  was a US Marine stationed in Okinawa, Japan. Though no one could travel to Japan from Torn back then. They resorted to communicating through  [**IRC**](https://en.wikipedia.org/wiki/Internet_Relay_Chat)  ([**Discord**](https://discord.com/)  of the past)  
+**[Spooks](https://www.torn.com/profiles.php?XID=64901#/)**  was a US Marine stationed in Okinawa, Japan. Though no one could travel to Japan from Torn back then. They resorted to communicating through  **[IRC](https://en.wikipedia.org/wiki/Internet_Relay_Chat)**  (**[Discord](https://discord.com/)**  of the past)  
 
 Unlike most faction/families that migrated to Torn from external sites, What's special about Yakuza is All Yakuza members met in Torn itself and began developing themselves, Discussing Torn stuff in online web forums, IRC etc.  
 
 
 ![](http://i.oran.pw/images/WHPQk.jpeg)
 
+_(old faction description image of Yakuza - Gurentai)_
 
 
-(old faction description image of Yakuza - Gurentai)
+#### So what happened to the First ever Yakuza Faction? Well this is where the story takes a turn:  
 
-
-So what happened to the First ever Yakuza Faction? Well this is where the story takes a turn:  
-
-“When factions become official and the first version of factions (and therefore of faction wars) is launched, Yakuza bought 2 faction buildings because it was cheaper to house members in a separate faction than to expand your faction building.”  
+_“When factions become official and the first version of factions (and therefore of faction wars) is launched, Yakuza bought 2 faction buildings because it was cheaper to house members in a separate faction than to expand your faction building.”_  
 
 It doesn’t even take a guess, All the Military guys joined Yakuza 1 and all of the Non Military guys joined Yakuza 2 and then, Faction Wars became a thing and this is when an unfortunate event took place.  
 
-“[Thuglife](https://www.torn.com/profiles.php?XID=245775#/), a former member of  [39th](https://www.torn.com/factions.php?step=profile&ID=19), decided to do his own thing and founded bounty hunters (BH). This faction went on to create some of the most destructive chains early in the game, and because the chaining algorithm wasn't what it is today, it was possible to destroy a faction in only a few hits by properly chaining attacks. This was the fate of Yakuza 1.”  
+_“**[Thuglife](https://www.torn.com/profiles.php?XID=245775#/)**, a former member of  **[39th](https://www.torn.com/factions.php?step=profile&ID=19)**, decided to do his own thing and founded bounty hunters (BH). This faction went on to create some of the most destructive chains early in the game, and because the chaining algorithm wasn't what it is today, it was possible to destroy a faction in only a few hits by properly chaining attacks. This was the fate of Yakuza 1.”_
 
 However this would turn out to be a Turning Point for Yakuza, Badger disgusted by his defeat and ashamed of the poor performance of his team, quickly disappeared from the game and with him to a lesser extent so did most of the military members But that wasn’t the end for Yakuza because there still was another Faction filled with Members and Dash was elected as their new Leader who also inherited the Yakuza Brand.  
 
-“Meanwhile in Yakuza 2, a new "over-all" leader was elected. This man was a total opposite of Badger; A computer aficionado who often discussed complex IT topics and an introvert, Centies did not last long as leader because he did not enjoy being a public figure. Instead, he taught me all he knew and in about 6 months time I became over-all leader with Centies assuming more of an "advisor" role as per his own wishes. This is when I inherited the Yakuza brand as well as faction ID 76 which would go on to be one of the best factions in the game.”  
+_“Meanwhile in Yakuza 2, a new "over-all" leader was elected. This man was a total opposite of Badger; A computer aficionado who often discussed complex IT topics and an introvert, Centies did not last long as leader because he did not enjoy being a public figure. Instead, he taught me all he knew and in about 6 months time I became over-all leader with Centies assuming more of an "advisor" role as per his own wishes. This is when I inherited the Yakuza brand as well as faction ID 76 which would go on to be one of the best factions in the game.”_
 
 And then came  [Lord3Infamous6](https://www.torn.com/profiles.php?XID=215545), He had just joined Yakuza and was Impressed by what the Faction was doing and achieving  
 
-“This is the time when I came into the Yakuza. Dash was the leader. Centies was still around, but a young guy like myself having the privilege of taking his time with idle chat was not possible. Dash was our leader, and he was a mentor to the younger guys. But back then, war was the attitude. We trained for war, we learned to not think Twice about it if it were to arise. Maybe it was still the Marine Corps influence on the faction. But, keep in mind, this was a time when a faction could easily be completely destroyed overnight if the wrong people got pissed off at you.  
+_“This is the time when I came into the Yakuza. Dash was the leader. Centies was still around, but a young guy like myself having the privilege of taking his time with idle chat was not possible. Dash was our leader, and he was a mentor to the younger guys. But back then, war was the attitude. We trained for war, we learned to not think Twice about it if it were to arise. Maybe it was still the Marine Corps influence on the faction. But, keep in mind, this was a time when a faction could easily be completely destroyed overnight if the wrong people got pissed off at you._
 
-What About friends and foes? Isn’t torn all about making friends and enemies and more friends that would backstab you i asked, to that Dash said this was a good one and continued to add,  
+#### What About friends and foes? Isn’t torn all about making friends and enemies and more friends that would backstab you i asked, to that Dash said this was a good one and continued to add,  
 
-“As far as allies, our first allies were EP(Engineered Plague), Goodfellas and THQ. The relationship between Yakuza and Goodfellas however depended on Badger being friends with someone on their side (also military personnel) and when Badger left that alliance pretty much turned sour. Goodfellas would actually go on to be one of our most vocal enemies later on. Over almost 15 years, we were allied with a lot of factions, although we did our best to keep our list of allies as short as possible, mostly because it interfered with our main source of income at the time which was the extortion racket. we were strong and wanted only strong allies, because weak allies couldn't protect themselves. Alliances at Yakuza weren't for protection, they were for strategically planning joint operations (lol). Our most notable allies were EP, SS (secret service),  [PT](https://www.torn.com/factions.php?step=profile&ID=230#/)  (for a long time until we went to war with them), and of course  [Infinity](https://www.torn.com/factions.php?step=profile&ID=27902).”  
+_“As far as allies, our first allies were EP(Engineered Plague), Goodfellas and THQ. The relationship between Yakuza and Goodfellas however depended on Badger being friends with someone on their side (also military personnel) and when Badger left that alliance pretty much turned sour. Goodfellas would actually go on to be one of our most vocal enemies later on. Over almost 15 years, we were allied with a lot of factions, although we did our best to keep our list of allies as short as possible, mostly because it interfered with our main source of income at the time which was the extortion racket. we were strong and wanted only strong allies, because weak allies couldn't protect themselves. Alliances at Yakuza weren't for protection, they were for strategically planning joint operations (lol). Our most notable allies were EP, SS (secret service),  [PT](https://www.torn.com/factions.php?step=profile&ID=230#/)  (for a long time until we went to war with them), and of course  [Infinity](https://www.torn.com/factions.php?step=profile&ID=27902).”_  
 
 ![](https://newspaper.torn.com/1663/3/original.png?v=1575389248)
-__(Pictured: Godfellas got owned, not sure why this image is a GIF tho i don't see nothing moving)__  
 
-Racket? What Racket? Extortion Racket? Hmm Interesting that Dash mentioned as their ‘Main Source of Income’ So I asked them to elaborate. To which Lord3Infamous6 answered  
+_(Pictured: Godfellas got owned, not sure why this image is a GIF tho i don't see nothing moving)_
 
-“This brings up an amazing time in Torn City, Factions used to pay 10s of millions for days of protection, people used to pay millions for their own safety, Yakuza was one of the leaders of the extortion movements in Torn City. those days are gone, because players used to leave town (Torn City) forever.... they'd stop paying their donator tax and pack their bags”  
-Looks like early iterations of Yakuza quickly adopted the protection rackets as a source of income. This caused the Yakuza to clash with other protection providers frequently, and though most were quick skirmishes it also led to long campaigns to dominate the market. Lord3infamous6 continues to add that it was a Major Component in Torn back then,  
+##### Racket? What Racket? Extortion Racket? Hmm Interesting that Dash mentioned as their ‘Main Source of Income’ So I asked them to elaborate. To which Lord3Infamous6 answered  
 
-“rackets, we ended up needing spreadsheets and stuff to keep track. BH was cutting into our profits so we had to take them out.”  
+_“This brings up an amazing time in Torn City, Factions used to pay 10s of millions for days of protection, people used to pay millions for their own safety, Yakuza was one of the leaders of the extortion movements in Torn City. those days are gone, because players used to leave town (Torn City) forever.... they'd stop paying their donator tax and pack their bags”  
+Looks like early iterations of Yakuza quickly adopted the protection rackets as a source of income. This caused the Yakuza to clash with other protection providers frequently, and though most were quick skirmishes it also led to long campaigns to dominate the market. Lord3infamous6 continues to add that it was a Major Component in Torn back then,"_
+
+_“rackets, we ended up needing spreadsheets and stuff to keep track. BH was cutting into our profits so we had to take them out.”_  
 
 Dash claims himself and Lord3infamous6 used to be good social engineers, Just by using Clever words they were able to clean out a person in Minutes via Chat.  
 
-Well so my Curiosity didn’t prevent me from asking What if a player tells them to f**k off? What would they do?  
+Well so my Curiosity didn’t prevent me from asking What if a player tells them to f**k off? What would they do? Dash Answers,  
 
-“Well that's because you're new-generation, An old gen player would never dream to tell us to f**k off Because it was very easy to destroy their faction, even after several updates If we went to the mattresses with them they'd for sure be destroyed, then we'd destroy their next faction and so on, and every time we'd do that the price (of extortion) went up. Now we're going to need a refund for the spent energy and time. Time is precious, you know.”  
+_“Well that's because you're new-generation, An old gen player would never dream to tell us to f**k off Because it was very easy to destroy their faction, even after several updates If we went to the mattresses with them they'd for sure be destroyed, then we'd destroy their next faction and so on, and every time we'd do that the price (of extortion) went up. Now we're going to need a refund for the spent energy and time. Time is precious, you know.”_
 
 So I asked them how would they take up initiative if such a mechanism was introduced that would allow people to extort just like the old days?  [Lord3Infamous6](https://www.torn.com/profiles.php?XID=215545)  says  
 
 “The government now is driven by donator taxes, it's no longer acceptable to allow a paying person to leave the city”  
 
 
-So What about the great achievements by the faction? What did they achieve and at what cost? How did Team Work even work back then?  
+#### So What about the great achievements by the faction? What did they achieve and at what cost? How did Team Work even work back then?  
 
-“we fought in almost every major war early on, defeated BH, ran the first 24 hour chain in torn history, we also ran the first 2000 hit chain when everyone had 150 e and hits required 50 e, we fought the best and stood our ground, ranked top 3 in hall of fame for a pretty long time, and since you mentioned team work: I know everyone probably says this about their faction and that's fine, but I want to point out that none of this would have ever been possible without the excellent team work everyone would put in. Our people were dedicated and loyal.  
+_“we fought in almost every major war early on, defeated BH, ran the first 24 hour chain in torn history, we also ran the first 2000 hit chain when everyone had 150 e and hits required 50 e, we fought the best and stood our ground, ranked top 3 in hall of fame for a pretty long time, and since you mentioned team work: I know everyone probably says this about their faction and that's fine, but I want to point out that none of this would have ever been possible without the excellent team work everyone would put in. Our people were dedicated and loyal._
 
-If we had to chain at 3 AM on a Wednesday people would pop in ready for war. We also took out all the lithuanian factions, we defeated the malaysian factions (one of the toughest wars we ever fought), took out BH when they were still a name in the game, etc.  
+_"If we had to chain at 3 AM on a Wednesday people would pop in ready for war. We also took out all the lithuanian factions, we defeated the malaysian factions (one of the toughest wars we ever fought), took out BH when they were still a name in the game, etc.  
 Also we fought in the original HT wars on both sides, lol.  
 We supported HT in the second war vs BH and friends which was fun to say the least.  
 In pre-faction times we sided with SS in the SS vs SUN wars, but nobody really remembers that. That was the first major war in the game by the way.Also we were the first faction to ever do a 10k chain.”_  
@@ -89,14 +88,14 @@ In pre-faction times we sided with SS in the SS vs SUN wars, but nobody really r
 what aside from attacking were effective methods to cripple enemies back in the day? How did things work, Where could people escape to?  
 Lord3infamous6 says hes glad the city is now safe for kids and all but it wasn’t always this way, First Airlines didn’t event exist, Dash Continues to add their strategy:-  
 
-“Well you see you have to think of old torn as kind of like the way you'd think of the wild west; But mostly in the sense that lawlessness is due to poorly defined rules and gray areas.  
-So we would exploit that 100%, Say for example one day you get a really nice letter, We'd pay designers to make them, the letter basically says pay now 1000000 upon receiving this letter or prepare for war  
+_“Well you see you have to think of old torn as kind of like the way you'd think of the wild west; But mostly in the sense that lawlessness is due to poorly defined rules and gray areas.  
+So we would exploit that 100%, Say for example one day you get a really nice letter, We'd pay designers to make them, the letter basically says pay now 1000000 upon receiving this letter or prepare for war_  
 
-So a lot of people would pay but every so often someone would test us, and so 1 mill was good money for something we only had to send a letter for but not so much if we actually had to get down to business, so once I declare war now I want 10 mill, just for declaring, no hits made and then I send a follow up letter, "Now it's 10 mill, I'm gonna give you 12 hrs to pay, then we start clipping people". now you got guys feeling the pressure of their poor decision not to pay but some are still feeling ballsy, so some will say "meh, I won't pay",  
+_"So a lot of people would pay but every so often someone would test us, and so 1 mill was good money for something we only had to send a letter for but not so much if we actually had to get down to business, so once I declare war now I want 10 mill, just for declaring, no hits made and then I send a follow up letter, "Now it's 10 mill, I'm gonna give you 12 hrs to pay, then we start clipping people". now you got guys feeling the pressure of their poor decision not to pay but some are still feeling ballsy, so some will say "meh, I won't pay",_  
 
-so those guys are now top priority, now they are listed as "to be made an example of", so first we start chaining, A sudden respect loss is suffered, guy starts paying attention, but what's this?, even after the chain all members are being kept in the hospital, We gain nothing from doing that other than to make you suffer, it's not a chain, it's us responding to the challenge, shoulda paid then usually the leader, who has all the money, would bunker up with meds and say "I don't care, let my members get hosped, I won't pay"  
+_"so those guys are now top priority, now they are listed as "to be made an example of", so first we start chaining, A sudden respect loss is suffered, guy starts paying attention, but what's this?, even after the chain all members are being kept in the hospital, We gain nothing from doing that other than to make you suffer, it's not a chain, it's us responding to the challenge, shoulda paid then usually the leader, who has all the money, would bunker up with meds and say "I don't care, let my members get hosped, I won't pay"_
 
-and now his members are sending him hate mail for being so closed minded,some are threatening to leave,in a week some will leave, now his faction is being destroyed not just in respect but in morale which is worth much more, we would gauge that,if faction members lost morale, their faction was already destroyed from within in fact, we'd probably recruit the strongest at that point”  
+_"and now his members are sending him hate mail for being so closed minded,some are threatening to leave,in a week some will leave, now his faction is being destroyed not just in respect but in morale which is worth much more, we would gauge that,if faction members lost morale, their faction was already destroyed from within in fact, we'd probably recruit the strongest at that point”_  
 
 
 ![](http://i.oran.pw/images/Jr27L.png)
@@ -106,7 +105,7 @@ and now his members are sending him hate mail for being so closed minded,some ar
 
 What were the factions greatest strengths? Dash claims
 
-“So early on, we always knew we were outranked in stats, numbers, and perhaps a few other dimensions. We figured out ways of overcoming those initial short comings by having defined strategies and responses for stuff.  
+“So early on, we always knew we were outranked in stats, numbers, and perhaps a few other dimensions. We figured out ways of overcoming those initial short comings by having defined strategies and responses for stuff.
 
 While we did have a few power house members, most members were average in terms of stats, and we were aware of that. Our strength was in numbers and strategy, we had the ability and skill to do long chains with our resources and that would net us respect gains equivalent to any HoF faction of the time (which is how we even got to HoF).  
 
@@ -114,23 +113,25 @@ So top strengths I would say were soft skills. We were lucky to have members who
 
 
 ![](http://i.oran.pw/images/uCjgF.jpeg)
+
 __(Pictured: lots of mailsalt.)__  
 
-What did the faction always looked/looks forward for and how does it help be it in the early days or now ? Lord3Infamous6 Says  
+#### What did the faction always looked/looks forward for and how does it help be it in the early days or now ? Lord3Infamous6 Says  
 
-“Before dirty bombs, before companies, before trillions of stats... our vision wasn’t future proof. We wanted war and money. We dedicated ourselves to a different era”  
+_“Before dirty bombs, before companies, before trillions of stats... our vision wasn’t future proof. We wanted war and money. We dedicated ourselves to a different era”_
 
 Dash Adds  
 
-“you have to understand that Lord(Lord3Infamous6) and I shared the same vision, which really helped us advance quickly in our efforts. While other factions modelled themselves after sports teams or military units, we kinda modelled our thing as more of an organized crime approach, as funny as that may sound today. We were interested in bringing some real life crime tactics into torn to gain money and notoriety. We succeeded in both aspects.”  
+_“you have to understand that Lord(Lord3Infamous6) and I shared the same vision, which really helped us advance quickly in our efforts. While other factions modelled themselves after sports teams or military units, we kinda modelled our thing as more of an organized crime approach, as funny as that may sound today. We were interested in bringing some real life crime tactics into torn to gain money and notoriety. We succeeded in both aspects.”_  
 
-What were Yakuza’s Vulnerabilities/Weaknesses? Well Dash thinks this is a hard Question to Answer over the Faction’s almost 15 years of existence. He also thinks the earlier iterations were more vulnerable than the later well planned/managed ones, he thinks the Yakuza's utmost weakness would be facing a faction with similar strategy.  
-_  
-“So for example for an unorganised group, even if they had olympic level stats, we'd destroy them flat out.  
-You could have the number one player within your ranks in your 10 man faction but if you didn't have a game plan we were going to crush you.  
+##### What were Yakuza’s Vulnerabilities/Weaknesses?
+Well Dash thinks this is a hard Question to Answer over the Faction’s almost 15 years of existence. He also thinks the earlier iterations were more vulnerable than the later well planned/managed ones, he thinks the Yakuza's utmost weakness would be facing a faction with similar strategy.  
+
+_“So for example for an unorganised group, even if they had olympic level stats, we'd destroy them flat out.  
+You could have the number one player within your ranks in your 10 man faction but if you didn't have a game plan we were going to crush you._
 We'd just do a 100 man chain and hit your weakest links and avoid the greek hero or whatever.  
 We'd still put you in the dumpster.  
 But a faction who had a defined game plan, a specific set of responses for certain events, or worse: a common ideology... Those were the challenging ones.”  
 _  
 _Thanks to  [Lord3infamous6](https://www.torn.com/profiles.php?XID=215545#/)  and  [Dash](https://www.torn.com/profiles.php?XID=3901)  for sitting down with me for the interview.  
-If you know a faction you'd like to see in the faction Focus please drop a mail to  [ORAN](https://www.torn.com/profiles.php?XID=1778676#/). you will be shortly contacted for an interview._ or Join Our [Discord](https://discord.com/) and post in an appropriate section.
+If you know a faction you'd like to see in the faction Focus please drop a mail to  [ORAN](https://www.torn.com/profiles.php?XID=1778676#/). you will be shortly contacted for an interview._ or Join Our [Discord](https://discord.gg/yvNCTXB) and post in an appropriate section.

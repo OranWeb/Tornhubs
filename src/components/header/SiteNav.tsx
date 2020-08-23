@@ -100,13 +100,13 @@ class SiteNav extends React.Component<SiteNavProps, SiteNavState> {
                   <Link to="/tags/faction-focus/">Faction Focus</Link>
                 </li>
                 <li role="Discord">
-                  <Link to="/tags/faction-focus/"> Discord</Link>
+                  <Link to="https://discord.gg/yvNCTXB"> Discord</Link>
                 </li>
                 <li role="Reddit">
-                  <Link to="/tags/faction-focus/">Reddit</Link>
+                  <Link to="https://www.reddit.com/r/Tornhub/">Reddit</Link>
                 </li>
                 <li role="Forum">
-                  <Link to="/tags/faction-focus/">Forum</Link>
+                  <Link to="#">Forum</Link>
                 </li>
                 <li role="menuitem">
                   <Link to="/tags/getting-started/">placenav</Link>
