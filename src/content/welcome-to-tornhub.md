@@ -24,7 +24,7 @@ TornHub Exists to feed you with Quality News and Articles all about Torn.
 We Plan to release a few category of Articles (and more will be worked upon and released at a future date)
 
 1. Tornography
-2. [Faction Focus](tags/faction-focus/)
+2. [Faction Focus](../tags/faction-focus/)
 3. Daily Forums News  
 
 _Please Note: "Daily Forums News" is only the segment's title and the news may not actually be published daily._
