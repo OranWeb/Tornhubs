@@ -3,7 +3,7 @@
   image: img/speeches-cover.jpg
 - id: About TornHub
   description: Posts that detail about TornHub.
-  image: img/blog-cover.png
+  image: img/temp/welcome-to-tornhub.jpg
 - id: Faction Focus
   description: Faction Focus Segment Documenting Torn Factions
   image: img//temp/faction-focus-template.jpg

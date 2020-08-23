@@ -3,10 +3,10 @@ layout: post
 title: 'Welcome to TornHub'
 author: [ORAN]
 tags: ['About TornHub']
-image: img/welcome-to-tornhub.jpg
+image: img/thumb/welcome-to-tornhub.jpg
 date: '2020-08-22T23:46:37.121Z'
 draft: false
-excerpt: ah, look a fansite for torn!
+excerpt: A Fan Site for Torn City
 ---
 
 **Tornhub simply is a Entertainment + News Hybrid Fansite for Torn**:
