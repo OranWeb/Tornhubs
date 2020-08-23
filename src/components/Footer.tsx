@@ -22,25 +22,17 @@ export const Footer: React.FC = () => {
         </section>
         <SiteFooterNav>
           <Link to="/">Latest Articles</Link>
-          {config.facebook && (
-            <a href={config.facebook} target="_blank" rel="noopener noreferrer">
-              Facebook
-            </a>
-          )}
-          {config.twitter && (
-            <a href={config.twitter} target="_blank" rel="noopener noreferrer">
-              Twitter
-            </a>
-          )}
-
-          <a href="https://github.com/scttcper/gatsby-casper" target="_blank" rel="noopener noreferrer">
+          <a href="https://discord.gg/yvNCTXB" target="_blank" rel="noopener noreferrer">
+            Discord
+          </a>
+          <a href="https://www.reddit.com/r/Tornhub" target="_blank" rel="noopener noreferrer">
             Reddit
           </a>
-          <a href="https://github.com/scttcper/gatsby-casper" target="_blank" rel="noopener noreferrer">
+          <a href="https://torn.com" target="_blank" rel="noopener noreferrer">
             Forums
           </a>
-          <a href="https://github.com/scttcper/gatsby-casper" target="_blank" rel="noopener noreferrer">
-            Discord
+          <a href="https://tornhub2.netlify.app/welcome-to-tornhub" target="_blank" rel="noopener noreferrer">
+            About
           </a>
           <a href="/rss.xml">RSS</a>
         </SiteFooterNav>
