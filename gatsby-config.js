@@ -5,7 +5,7 @@ module.exports = {
   siteMetadata: {
     title: 'TornHub',
     description: 'A Fansite for Torn City',
-    siteUrl: 'https://tornhub2.netlify.app', // full path to blog - no ending slash
+    siteUrl: 'https://torn.oran.pw', // full path to blog - no ending slash
   },
   mapping: {
     'MarkdownRemark.frontmatter.author': 'AuthorYaml',
