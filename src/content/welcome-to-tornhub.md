@@ -6,7 +6,7 @@ tags: ['About TornHub']
 image: img/thumb/welcome-to-tornhub.jpg
 date: '2020-08-22T23:46:37.121Z'
 draft: false
-excerpt: A Fan Site for Torn City
+excerpt: A Well Maintained Fan Site for Torn City
 ---
 
 **Tornhub simply is a Entertainment + News Hybrid Fansite for Torn**:
