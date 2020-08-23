@@ -31,10 +31,9 @@ export const Footer: React.FC = () => {
           <a href="https://torn.com" target="_blank" rel="noopener noreferrer">
             Forums
           </a>
-          <a href="https://tornhub2.netlify.app/welcome-to-tornhub" target="_blank" rel="noopener noreferrer">
+          <a href="/welcome-to-tornhub" target="_blank" rel="noopener noreferrer">
             About
-          </a>
-          <a href="/rss.xml">RSS</a>
+      
         </SiteFooterNav>
       </div>
     </footer>
