@@ -26,7 +26,7 @@ We Plan to release a few categories of Articles (and more will be worked upon an
 1. Tornography
 2. [Faction Focus](../tags/faction-focus/)
 3. What is Happening
-4. Daily Forums News  
+4. [Daily Forums News](../tags/daily-forums-news/)  
 
 _Please Note: "Daily Forums News" is only the segment's title and the news may not actually be published daily._
 

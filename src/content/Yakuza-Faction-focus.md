@@ -134,7 +134,7 @@ _
 Dash Declined to Comment, because he entrusted the Yakuza Brand to his Friend [Yuri-Orlov](https://www.torn.com/profiles.php?XID=175440) who is the current Leader of Yakuza - Infinity and owns the Yakuza Brand. welp he's not here now, guess thats it. see ya on our next article about dude dude's smol benis.
 
 haha gotcha, not so easily. I Sat down with Yuri-Orlov a few months later to discuss, he Begins with  
-_" Dash Destroyed my First Faction"_  
+_" Dash Destroyed my First Faction lmao"_  
 _" second faction I joined was Infinity Assassins. It was when real factions were still in their infancy, I became leader because the 4 members were inactive. Built it up, we ended up having 3 factions back then for the reasons dash stated. We reached a high of 18 on the hof with just over 10k of respect. Which was huge back then. Unlike Yakuza's leadership structure, we had a leadership council and we could bounce around. We were mercenaries for hire, Guest chaining for our allies, Yakuza, HT etc. Those relationships are still strong today. We used to be known for our trash talk on the faction forums but since forums 2.0 we have remained quiet._
 
 things seemed to have been going great for Yuri till he got banned....
@@ -150,3 +150,4 @@ _"I encourage our members to do elimination. Its a fun time, you get to meet oth
 
 _Thanks to  [Lord3infamous6](https://www.torn.com/profiles.php?XID=215545#/), [Dash](https://www.torn.com/profiles.php?XID=3901) and [Yuri-Orlov](https://www.torn.com/profiles.php?XID=175440)  for sitting down with me for the interview.  
 If you know a faction you'd like to see in the faction Focus please drop a mail to  [ORAN](https://www.torn.com/profiles.php?XID=1778676#/). you will be shortly contacted for an interview._ or Join Our [Discord](https://discord.gg/yvNCTXB) and post in an appropriate section.
+Learn More about Tornhub [here](https://torn.oran.pw/welcome-to-tornhub/)
