@@ -14,13 +14,13 @@ The Obviously cringe uncreative name aside, [TornHub](https://torn.oran.pw) is a
 
 ### What are the features of TornHub?  
 
-1. TornHub is free to use
+1. TornHub is free to use.
 2. TornHub is Open Source (source code available at [Github](https://github.com))
-3. Tornhub is Actively Maintained and Developed.
+3. Tornhub is Actively Developed, Maintained and Updated.
 4. TornHub Hosts user generated content all about Torn.
 
 ## Why Does TornHub Exist?
-TornHub Exists to feed you with Quality News and Articles all about Torn.
+TornHub Exists to feed you with Quality News and other Articles all about Torn.
 We Plan to release a few categories of Articles (and more will be worked upon and released at a future date)
 
 1. Tornography
@@ -40,5 +40,5 @@ If You're interested in Writing for TornHub here's how you can,
 ##### Quick Links
 
 [TornHub Forum Post](https://torn.com/forums.php)  
-[TornHub Discord](https://discord.gg/yvNCTXB)  
+[TornHub Discord](https://github.com/oranweb/tornhubs)  
 [TornHub Reddit](https://reddit.com/r/tornhub)  
