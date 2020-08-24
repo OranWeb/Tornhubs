@@ -9,14 +9,10 @@ draft: false
 excerpt: Yakuza, The name that gets dropped on the forum from time to time, new players don’t seem to have any idea but old players, they get chills sent down their spine.
 ---
 
-
-#### Yakuza, The name that gets dropped on the forum from time to time, new players don’t seem to have any idea but old players, they get chills sent down their spine.  
-
+Yakuza, a faction that was once feared by everyone, No one wanted any trouble with and paid huge sums in Extortion fees is today filled with friendly, loyal, active members, To see how it changed and know its history and how it went together with Torn, I decided to sit down with The infamous  **[Lord3Infamous6](https://www.torn.com/profiles.php?XID=215545#/)**  who has now returned after severe inactivity and The Legendary  [**Dash**](https://www.torn.com/profiles.php?XID=3901#/)  to know about the Yakuza Family's genesis story and the effect it had on Torn.  
 
 ![](http://i.oran.pw/images/astUk.jpeg)
 
-
-Yakuza, a faction that was once feared by everyone, No one wanted any trouble with and paid huge sums in Extortion fees is today filled with friendly, loyal, active members, To see how it changed and know its history and how it went together with Torn, I decided to sit down with The infamous  **[Lord3Infamous6](https://www.torn.com/profiles.php?XID=215545#/)**  who has now returned after severe inactivity and The Legendary  [**Dash**](https://www.torn.com/profiles.php?XID=3901#/)  to know about the Yakuza Family's genesis story and the effect it had on Torn.  
 
 _“Yakuza was founded by US military personnel stationed in Kadena air base, a United States Air Force Base in Okinawa, Japan. The founders, Badger, Dropgoat, Lildevil, Snachez and a few others decided to use a name that was representative of their (temporary) residence in Japan. Upon deciding on a name, an additional batch of members was recruited; Most of these guys are inactive today (except for  [**TJSims**](https://www.torn.com/profiles.php?XID=9972#/)  who is still around). Since faction buildings did not exist, and would not for perhaps another year, factions organised on external forums (3rd party sites)”_  
 
@@ -60,8 +56,11 @@ _(Pictured: Godfellas got owned, not sure why this image is a GIF tho i don't se
 
 ##### Racket? What Racket? Extortion Racket? Hmm Interesting that Dash mentioned as their ‘Main Source of Income’ So I asked them to elaborate. To which Lord3Infamous6 answered  
 
-_“This brings up an amazing time in Torn City, Factions used to pay 10s of millions for days of protection, people used to pay millions for their own safety, Yakuza was one of the leaders of the extortion movements in Torn City. those days are gone, because players used to leave town (Torn City) forever.... they'd stop paying their donator tax and pack their bags”  
-Looks like early iterations of Yakuza quickly adopted the protection rackets as a source of income. This caused the Yakuza to clash with other protection providers frequently, and though most were quick skirmishes it also led to long campaigns to dominate the market. Lord3infamous6 continues to add that it was a Major Component in Torn back then,"_
+_“This brings up an amazing time in Torn City, Factions used to pay 10s of millions for days of protection, people used to pay millions for their own safety, Yakuza was one of the leaders of the extortion movements in Torn City. those days are gone, because players used to leave town (Torn City) forever.... they'd stop paying their donator tax and pack their bags”_
+
+Looks like early iterations of Yakuza quickly adopted the protection rackets as a source of income. This caused the Yakuza to clash with other protection providers frequently, and though most were quick skirmishes it also led to long campaigns to dominate the market.
+
+ Lord3infamous6 continues to add that it was a Major Component in Torn back then,
 
 _“rackets, we ended up needing spreadsheets and stuff to keep track. BH was cutting into our profits so we had to take them out.”_  
 
@@ -76,20 +75,16 @@ So I asked them how would they take up initiative if such a mechanism was introd
 “The government now is driven by donator taxes, it's no longer acceptable to allow a paying person to leave the city”  
 
 
-#### So What about the great achievements by the faction? What did they achieve and at what cost? How did Team Work even work back then?  
+#### So What about the great achievements by the faction? What did they achieve and at what cost? How did 'Team Work' even work back then?  
 
 _“we fought in almost every major war early on, defeated BH, ran the first 24 hour chain in torn history, we also ran the first 2000 hit chain when everyone had 150 e and hits required 50 e, we fought the best and stood our ground, ranked top 3 in hall of fame for a pretty long time, and since you mentioned team work: I know everyone probably says this about their faction and that's fine, but I want to point out that none of this would have ever been possible without the excellent team work everyone would put in. Our people were dedicated and loyal._
 
-_"If we had to chain at 3 AM on a Wednesday people would pop in ready for war. We also took out all the lithuanian factions, we defeated the malaysian factions (one of the toughest wars we ever fought), took out BH when they were still a name in the game, etc.  
-Also we fought in the original HT wars on both sides, lol.  
-We supported HT in the second war vs BH and friends which was fun to say the least.  
-In pre-faction times we sided with SS in the SS vs SUN wars, but nobody really remembers that. That was the first major war in the game by the way.Also we were the first faction to ever do a 10k chain.”_  
+_"If we had to chain at 3 AM on a Wednesday people would pop in ready for war. We also took out all the lithuanian factions, we defeated the malaysian factions (one of the toughest wars we ever fought), took out BH when they were still a name in the game, etc. Also we fought in the original HT wars on both sides, lol. We supported HT in the second war vs BH and friends which was fun to say the least. In pre-faction times we sided with SS in the SS vs SUN wars, but nobody really remembers that. That was the first major war in the game by the way.Also we were the first faction to ever do a 10k chain.”_  
 
 what aside from attacking were effective methods to cripple enemies back in the day? How did things work, Where could people escape to?  
 Lord3infamous6 says hes glad the city is now safe for kids and all but it wasn’t always this way, First Airlines didn’t event exist, Dash Continues to add their strategy:-  
 
-_“Well you see you have to think of old torn as kind of like the way you'd think of the wild west; But mostly in the sense that lawlessness is due to poorly defined rules and gray areas.  
-So we would exploit that 100%, Say for example one day you get a really nice letter, We'd pay designers to make them, the letter basically says pay now 1000000 upon receiving this letter or prepare for war_  
+_“Well you see you have to think of old torn as kind of like the way you'd think of the wild west; But mostly in the sense that lawlessness is due to poorly defined rules and gray areas. So we would exploit that 100%, Say for example one day you get a really nice letter, We'd pay designers to make them, the letter basically says pay now 1000000 upon receiving this letter or prepare for war_  
 
 _"So a lot of people would pay but every so often someone would test us, and so 1 mill was good money for something we only had to send a letter for but not so much if we actually had to get down to business, so once I declare war now I want 10 mill, just for declaring, no hits made and then I send a follow up letter, "Now it's 10 mill, I'm gonna give you 12 hrs to pay, then we start clipping people". now you got guys feeling the pressure of their poor decision not to pay but some are still feeling ballsy, so some will say "meh, I won't pay",_  
 
@@ -136,13 +131,13 @@ _
 
 #### Whats going on today for Yakuza?
 
-Dash Declined to Comment, because he entrusted the Yakuza Brand to his Friend [Yuri-Orlov](https://www.torn.com/profiles.php?XID=175440) who is the current Leader of Yakuza - Infinity and owns the Yakuza Brand. welp he's not here now, guess thats it. see ya on our next article about dude dude's smol benis
+Dash Declined to Comment, because he entrusted the Yakuza Brand to his Friend [Yuri-Orlov](https://www.torn.com/profiles.php?XID=175440) who is the current Leader of Yakuza - Infinity and owns the Yakuza Brand. welp he's not here now, guess thats it. see ya on our next article about dude dude's smol benis.
 
-haha gotcha, not so easily. I Sat down with Yuri-Orlov a few months later to discuss, he Begins with
-_" Dash Destroyed my First Faction"_
+haha gotcha, not so easily. I Sat down with Yuri-Orlov a few months later to discuss, he Begins with  
+_" Dash Destroyed my First Faction"_  
 _" second faction I joined was Infinity Assassins. It was when real factions were still in their infancy, I became leader because the 4 members were inactive. Built it up, we ended up having 3 factions back then for the reasons dash stated. We reached a high of 18 on the hof with just over 10k of respect. Which was huge back then. Unlike Yakuza's leadership structure, we had a leadership council and we could bounce around. We were mercenaries for hire, Guest chaining for our allies, Yakuza, HT etc. Those relationships are still strong today. We used to be known for our trash talk on the faction forums but since forums 2.0 we have remained quiet._
 
-things seemed to have been going great for Yuri till he got banned
+things seemed to have been going great for Yuri till he got banned....
 
 _"I ran a competing game (Lost City) at the time so Ched / Quacks (Yes there was a 2nd owner of torn back then) I am sure were not happy. So I was out of the game for 4 plus years and Infinity scattered to the wind. We have former members in 39th, JFK, SA, Relentless and more. A significant portion of my former members were inactive when Clansy let me out of fed."_
 

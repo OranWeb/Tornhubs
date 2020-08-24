@@ -12,7 +12,7 @@ excerpt: Daily Forums News
 ## Forums News for 24/8/20
 
 x did y
-y did z 
+y did z
 z did z1
 
 test did test
