@@ -11,7 +11,7 @@ excerpt: Yakuza, The name that gets dropped on the forum from time to time, new 
 
 Yakuza, a faction that was once feared by everyone, No one wanted any trouble with and paid huge sums in Extortion fees is today filled with friendly, loyal, active members, To see how it changed and know its history and how it went together with Torn, I decided to sit down with The infamous  **[Lord3Infamous6](https://www.torn.com/profiles.php?XID=215545#/)**  who has now returned after severe inactivity and The Legendary  [**Dash**](https://www.torn.com/profiles.php?XID=3901#/)  to know about the Yakuza Family's genesis story and the effect it had on Torn.  
 
-![](http://i.oran.pw/images/astUk.jpeg)
+![](https://i.oran.pw/images/astUk.jpeg)
 
 
 _“Yakuza was founded by US military personnel stationed in Kadena air base, a United States Air Force Base in Okinawa, Japan. The founders, Badger, Dropgoat, Lildevil, Snachez and a few others decided to use a name that was representative of their (temporary) residence in Japan. Upon deciding on a name, an additional batch of members was recruited; Most of these guys are inactive today (except for  [**TJSims**](https://www.torn.com/profiles.php?XID=9972#/)  who is still around). Since faction buildings did not exist, and would not for perhaps another year, factions organised on external forums (3rd party sites)”_  
@@ -25,7 +25,7 @@ _“Soon after I arrived, I met [Spooks](https://www.torn.com/profiles.php?XID=6
 Unlike most faction/families that migrated to Torn from external sites, What's special about Yakuza is All Yakuza members met in Torn itself and began developing themselves, Discussing Torn stuff in online web forums, IRC etc.  
 
 
-![](http://i.oran.pw/images/WHPQk.jpeg)
+![](https://i.oran.pw/images/WHPQk.jpeg)
 
 _(old faction description image of Yakuza - Gurentai)_
 
@@ -93,7 +93,7 @@ _"so those guys are now top priority, now they are listed as "to be made an exam
 _"and now his members are sending him hate mail for being so closed minded,some are threatening to leave,in a week some will leave, now his faction is being destroyed not just in respect but in morale which is worth much more, we would gauge that,if faction members lost morale, their faction was already destroyed from within in fact, we'd probably recruit the strongest at that point”_  
 
 
-![](http://i.oran.pw/images/Jr27L.png)
+![](https://i.oran.pw/images/Jr27L.png)
 
 (Pictured: Yakuza in HOF #4 )
 
@@ -107,7 +107,7 @@ While we did have a few power house members, most members were average in terms 
 So top strengths I would say were soft skills. We were lucky to have members who were good at strategising and it was normal for us to have a ton of spreadsheets on our offsite forums, some of our members created calculators in visual basic to figure out multipliers and stuff like that. To keep it brief, we'd science the shit out of stuff to make up for our pretty average stats.”  
 
 
-![](http://i.oran.pw/images/uCjgF.jpeg)
+![](https://i.oran.pw/images/uCjgF.jpeg)
 
 __(Pictured: lots of mailsalt.)__  
 
