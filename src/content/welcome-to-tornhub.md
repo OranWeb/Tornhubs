@@ -10,7 +10,7 @@ excerpt: A Well Maintained Fan Site for Torn City
 ---
 
 ## What is TornHub
-The Obviously cringe uncreative name apart, [TornHub](https://torn.oran.pw) is an Entertainment + News Hybrid fan site for the game [Torn City](https://torn.com)
+The Obviously cringe uncreative name aside, [TornHub](https://torn.oran.pw) is an Entertainment + News Hybrid fan site for the game [Torn City](https://torn.com)
 
 ### What are the features of TornHub?  
 
