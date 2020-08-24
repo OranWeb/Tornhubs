@@ -25,7 +25,8 @@ We Plan to release a few categories of Articles (and more will be worked upon an
 
 1. Tornography
 2. [Faction Focus](../tags/faction-focus/)
-3. Daily Forums News  
+3. What is Happening
+4. Daily Forums News  
 
 _Please Note: "Daily Forums News" is only the segment's title and the news may not actually be published daily._
 
@@ -38,8 +39,6 @@ If You're interested in Writing for TornHub here's how you can,
 
 ##### Quick Links
 
-[TornHub Forums](https://torn.com/forums.php)  
+[TornHub Forum Post](https://torn.com/forums.php)  
 [TornHub Discord](https://discord.gg/yvNCTXB)  
 [TornHub Reddit](https://reddit.com/r/tornhub)  
-<!-- addthis button -->
-<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5f4102e8d08c3a7f"></script>
