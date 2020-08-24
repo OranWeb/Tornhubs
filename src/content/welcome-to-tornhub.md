@@ -38,8 +38,8 @@ If You're interested in Writing for TornHub here's how you can,
 
 ##### Quick Links
 
-[TornHub Forums](https://torn.com/forums.php)
-[TornHub Discord](https://discord.gg/yvNCTXB)
+[TornHub Forums](https://torn.com/forums.php)  
+[TornHub Discord](https://discord.gg/yvNCTXB)  
 [TornHub Reddit](https://reddit.com/r/tornhub)  
 <!-- addthis button -->
 <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5f4102e8d08c3a7f"></script>

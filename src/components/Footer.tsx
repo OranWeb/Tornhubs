@@ -34,6 +34,9 @@ export const Footer: React.FC = () => {
           <a href="/welcome-to-tornhub" target="_blank" rel="noopener noreferrer">
             About
             </a>
+            <!-- add this code start --!>
+            <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5f4102e8d08c3a7f"></script>
+            <!-- add this code end --!>
 
         </SiteFooterNav>
       </div>
