@@ -35,6 +35,17 @@ export const Footer: React.FC = () => {
             About
             </a>
             <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5f4102e8d08c3a7f"></script>
+            <script type="application/javascript" src="https://sdki.truepush.com/sdk/v2.0.2/app.js" async></script>
+            <script>
+            var truepush = window.truepush || [];
+            truepush.push(function(){
+                truepush.Init({
+                    id: "5f4370bc356a3fab3037025d"
+                    }, function(error){
+                      if(error) console.error(error);
+                    })
+                })
+            </script>
 
         </SiteFooterNav>
       </div>
