@@ -5,7 +5,7 @@ author: [ORAN]
 tags: ['Faction Focus']
 image: img/thumb/faction-focus-yakuza-thumb.jpg
 date: '2020-08-23T23:46:37.121Z'
-draft: true
+draft: false
 excerpt: Yakuza, The name that gets dropped on the forum from time to time, new players don’t seem to have any idea but old players, they get chills sent down their spine.
 ---
 
@@ -133,5 +133,25 @@ We'd just do a 100 man chain and hit your weakest links and avoid the greek hero
 We'd still put you in the dumpster.  
 But a faction who had a defined game plan, a specific set of responses for certain events, or worse: a common ideology... Those were the challenging ones.”  
 _  
-_Thanks to  [Lord3infamous6](https://www.torn.com/profiles.php?XID=215545#/)  and  [Dash](https://www.torn.com/profiles.php?XID=3901)  for sitting down with me for the interview.  
+
+#### Whats going on today for Yakuza?
+
+Dash Declined to Comment, because he entrusted the Yakuza Brand to his Friend [Yuri-Orlov](https://www.torn.com/profiles.php?XID=175440) who is the current Leader of Yakuza - Infinity and owns the Yakuza Brand. welp he's not here now, guess thats it. see ya on our next article about dude dude's smol benis
+
+haha gotcha, not so easily. I Sat down with Yuri-Orlov a few months later to discuss, he Begins with
+_" Dash Destroyed my First Faction"_
+_" second faction I joined was Infinity Assassins. It was when real factions were still in their infancy, I became leader because the 4 members were inactive. Built it up, we ended up having 3 factions back then for the reasons dash stated. We reached a high of 18 on the hof with just over 10k of respect. Which was huge back then. Unlike Yakuza's leadership structure, we had a leadership council and we could bounce around. We were mercenaries for hire, Guest chaining for our allies, Yakuza, HT etc. Those relationships are still strong today. We used to be known for our trash talk on the faction forums but since forums 2.0 we have remained quiet._
+
+things seemed to have been going great for Yuri till he got banned
+
+_"I ran a competing game (Lost City) at the time so Ched / Quacks (Yes there was a 2nd owner of torn back then) I am sure were not happy. So I was out of the game for 4 plus years and Infinity scattered to the wind. We have former members in 39th, JFK, SA, Relentless and more. A significant portion of my former members were inactive when Clansy let me out of fed."_
+
+_"When I got back, I was in debt like 200 million for my property tax. I reached out to some former members. They helped me out and I joined ELF. At that point a former member (Equilibrium) had a small new faction with a couple noobs (about 10k respect). He asked me to come to his faction and revive Infinity. Shortly after we merged with Yakuza's former members that wanted to see their brand revived as well. You will never know who from the old days will be in the faction. We are trying to recruit active young players and build them up.In recent months, we survived a tough war with lingering Insanity and recently warred Ruthless Reborn for more territories. It is my hope that one day all of Dash's & my wayward members come home and we can relive the glory days of Yakuza extortion. Until then we are trying to recruit active young players and build them up. We purchased a second faction to serve as a training / evaluation area.  The goal is to one day return to the HOF, but it is a long slow crawl, we currently are ranked #99 with almost 2 million respect. lmao 2 million respect...If I told myself 14 years ago that would be possible I would have said thats bullshit!"_
+
+##### Whats the faction's Take on elimination, Does the Faction work in team during elim and also whats the take on Crimes 2.0? Would there be certain changes taking place to Yakuza - Infinity
+
+_"I encourage our members to do elimination. Its a fun time, you get to meet others outside of the faction and form friendships, plus get to exercise your battle stats. I've always said, torn is a waste of time if all you do is train, Right Oran? lol We try to time our chains to coincide with it so not only do our members get the benefit of helping their team, they help the faction gain respect. I just wish Ched would allow us to all join the same (elimination) team."_"
+
+
+_Thanks to  [Lord3infamous6](https://www.torn.com/profiles.php?XID=215545#/), [Dash](https://www.torn.com/profiles.php?XID=3901) and [Yuri-Orlov](https://www.torn.com/profiles.php?XID=175440)  for sitting down with me for the interview.  
 If you know a faction you'd like to see in the faction Focus please drop a mail to  [ORAN](https://www.torn.com/profiles.php?XID=1778676#/). you will be shortly contacted for an interview._ or Join Our [Discord](https://discord.gg/yvNCTXB) and post in an appropriate section.
