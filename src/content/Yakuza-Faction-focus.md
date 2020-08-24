@@ -5,8 +5,8 @@ author: [ORAN]
 tags: ['Faction Focus']
 image: img/thumb/faction-focus-yakuza-thumb.jpg
 date: '2020-08-23T23:46:37.121Z'
-draft: false
-excerpt: Yakuza, The name that gets dropped on the forum from time to time, new players don’t seem to have any idea but old players, they get chills sent down their spine. 
+draft: true
+excerpt: Yakuza, The name that gets dropped on the forum from time to time, new players don’t seem to have any idea but old players, they get chills sent down their spine.
 ---
 
 

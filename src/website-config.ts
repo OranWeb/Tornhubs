@@ -54,7 +54,7 @@ const config: WebsiteConfig = {
   coverImage: 'img/blog-cover.png',
   logo: 'img/tornhub.png',
   lang: 'en',
-  siteUrl: 'https://tornhub2.netlify.app/',
+  siteUrl: 'https://torn.oran.pw/',
   facebook: '#',
   twitter: '#',
   showSubscribe: false,
